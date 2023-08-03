@@ -3,11 +3,13 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+theme: wowchemy
 title: "Guolu Tang"
 baseURL: "https://jerryguolu.github.io/starter-hugo-academic/"
 publishDir: "docs"
 sass:
   sass_dir: assets/css
+
 
 ############################
 ## LANGUAGE
