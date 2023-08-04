@@ -5,7 +5,7 @@
 
 theme: wowchemy
 title: "Guolu Tang"
-baseURL: "https://jerryguolu.github.io/starter-hugo-academic/"
+baseURL: "https://jerryguolu.github.io/academic/"
 publishDir: "docs"
 sass:
   sass_dir: assets/css
