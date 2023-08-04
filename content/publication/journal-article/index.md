@@ -5,6 +5,7 @@ authors:
 - Zhenwei Liu
 - Dehui Chen
 author_notes:
+  - 'Independent first author'
 date: "2022 Oct"
 doi: "10.1016/j.jcv.2022.105246"
 

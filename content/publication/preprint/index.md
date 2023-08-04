@@ -33,7 +33,7 @@ abstract: Human adenovirus (HAdV) type 40 in species F (HAdV-F40) and HAdV-F41 r
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 links: []
-url_pdf: "https://tmpfiles.org/dl/1904918/journalofmedicalvirology.pdf"
+url_pdf: "https://www.authorea.com/users/636695/articles/653441-the-knob-proteins-of-human-adenovirus-in-species-f-elicit-cross-neutralizing-antibody-responses"
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: '#'
 #url_poster: '#'

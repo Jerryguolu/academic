@@ -2,16 +2,16 @@
 title: "Circular RNA: The Research Direction of future Virus Vaccines?"
 authors:
 - Guolu Tang
-- 'Equal contribution'
 - Nanwen Shao
-- 'Equal contribution'
 - Yinghui Peng
-- 'Equal contribution'
 - Jixian Lan
 - Zhenwei Liu
 - Dehui Chen
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: "2022 Nov"
-# doi: "10.1016/j.jcv.2022.105246."
+# doi: "10.31031/CJMI.2022.06.000633"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-01T00:00:00Z"

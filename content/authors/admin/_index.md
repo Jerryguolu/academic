@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:tangguolu@stu.gzhmu.edu.cn
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Jerryxiaodou
