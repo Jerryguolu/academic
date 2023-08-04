@@ -26,9 +26,9 @@ bio: My research interests include lung cancer, molecular targeting treatment an
 
 # Interests to show in About widget
 interests:
+  - Virology
   - Molecular biology of lung cancer
   - Biomarkers in lung cancer
-  - Virology
   - Respiratory disease
 
 # Education to show in About widget
@@ -70,5 +70,5 @@ email: 'tangguolu@stu.gzhmu.edu.cn'
 highlight_name: true
 ---
 
-Hi! Thank you for visiting my page! I am Jerry, a graduate student majoring in Clinical Medicine at Guangzhou Medical University, dedicated to the molecular biology of lung cancer in hopes of discovering more effective treatments. I also have a profound interest in the biomarkers of lung cancer. Additionally, I delve into virology and respiratory diseases. Currently, I am a member of the State Key Laboratory of Respiratory Disease (SKLRD), where I work with my peers in a diversified team to explore and tackle complex challenges in respiratory diseases. I firmly believe in the power of scientific research, and I look forward to collaborating with more researchers to contribute to the cause of global health.
+Hi! Thank you for visiting my page! I am Jerry, a graduate student majoring in Clinical Medicine at Guangzhou Medical University. I am dedicated to virology and respiratory diseases, while also maintaining a profound interest in the molecular biology of lung cancer, in hopes of discovering more effective treatments. Currently, I am a member of the State Key Laboratory of Respiratory Disease (SKLRD), where I work with my peers in a diversified team to explore and tackle complex challenges in respiratory diseases. I firmly believe in the power of scientific research, and I look forward to collaborating with more researchers to contribute to the cause of global health.
 {style="text-align: justify;"}
