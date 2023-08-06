@@ -33,6 +33,17 @@ sections:
           date_start: '2021-09-01'
           date_end: ''
           description: |2-
+            Responsibilities include:
+  
+            * Leader of Provincial-level Student Science and Technology Innovation Project (Identification of Neutralizing Antibodies)
+  
+            * Data Analysis: Specialized in Bioinformatics Data
+  
+            * Experimental Design: Developed and implemented various research methodologies
+
+            * Scientific Illustration: Proficient in GraphPad Prism and Adobe Illustrator for data visualization
+
+            * Web Development: Proficient in Markdown language for website construction
              
         - title: Research Intern
           company: State Key Laboratory of Respiratory Disease
